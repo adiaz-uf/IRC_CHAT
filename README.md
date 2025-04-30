@@ -52,8 +52,8 @@ This project is an implementation of an **IRC (Internet Relay Chat) server** in 
 
 Compile the project using the Makefile:
 ```bash
-   make
-   ```
+make
+```
 
 ### Run
 
